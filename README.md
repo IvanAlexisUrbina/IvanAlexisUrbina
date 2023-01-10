@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ivan-alexis-urbina-melo-7777aa227]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivan alexis urbina melo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ivan-alexis-urbina-melo-7777aa227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivan alexis urbina melo" height="30" width="40" /></a>
 <a href="https://fb.com/ivan alexis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ivan alexis" height="30" width="40" /></a>
 <a href="https://instagram.com/ivan._.0525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ivan._.0525" height="30" width="40" /></a>
 </p>
