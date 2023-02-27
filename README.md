@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivan Alexis Urbina</h1>
 <h3 align="center">A passionate developer of Colombia</h3>
 
-- 🔭 I’m currently working on [Suntic S.A.S](http://firmadoc-corp-public-alb-2125005779.us-east-1.elb.amazonaws.com/firmadoc_corp_suntic/login/)
+- 🔭 I’m currently working Free lance
 
 - 💬 Ask me about **Php,Laravel,Html,Css,Reactjs,Bootstrap,Js,Jquery,Ajax,Mysql.**
 
