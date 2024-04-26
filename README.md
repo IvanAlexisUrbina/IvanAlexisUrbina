@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working Free lance
 
-- 💬 Ask me about **Php,Laravel,Html,Css,Reactjs,Bootstrap,Js,Jquery,Ajax,Mysql.**
+- 💬 Ask me about **Php,Laravel,Html,Css,Reactjs,Vue,Bootstrap,Js,Jquery,Ajax,Mysql.**
 
 - 📫 How to reach me **Alexis-crokis@hotmail.com**
 
